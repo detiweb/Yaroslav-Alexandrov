@@ -1,0 +1,46 @@
+body{
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	background: lightgray;
+	margin: 0px;
+	padding: 0px;
+}
+a{
+	text-decoration: none;	
+}
+nav{
+	border: 2px solid blue;
+	width: 39.7%;
+	margin-left: 31%;
+	background: lightblue;
+}
+header{
+	text-align: center;
+}
+h1{
+	text-align: center;
+}
+h3{
+	display: inline-block;
+	margin-left: 30%;
+}
+button:hover{
+	background: green;
+}
+p{
+	margin-left: 5%;
+}
+div{
+	width: 24%;
+	display: inline-block;
+}
+img{
+	width: 100%;
+}
+div:hover{
+	background: lightgreen;
+	border: 3px solid darkred;
+}
+footer{
+	background: white;
+	font-size: 20px;
+}
